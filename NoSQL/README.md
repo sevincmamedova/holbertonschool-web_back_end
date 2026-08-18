@@ -10,3 +10,4 @@ Working with MongoDB from the mongo shell and from Python with PyMongo.
 | `1-use_or_create_database` | Creates or switches to the database `my_db` |
 | `2-insert` | Inserts a document in the `school` collection |
 | `3-all` | Lists all documents of the `school` collection |
+| `4-match` | Lists the documents named "Holberton school" |
