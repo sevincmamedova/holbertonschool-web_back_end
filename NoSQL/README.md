@@ -11,3 +11,4 @@ Working with MongoDB from the mongo shell and from Python with PyMongo.
 | `2-insert` | Inserts a document in the `school` collection |
 | `3-all` | Lists all documents of the `school` collection |
 | `4-match` | Lists the documents named "Holberton school" |
+| `5-count` | Displays the number of documents in the collection |
